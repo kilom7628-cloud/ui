@@ -1,0 +1,6 @@
+{
+  "name": "AHADU AI",
+  "description": "AHADU AI by Aether Industries powered by the ALPHA neural network",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
